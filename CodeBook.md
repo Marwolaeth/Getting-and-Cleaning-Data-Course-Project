@@ -1,7 +1,7 @@
 # Compressed UCI HAR Dataset Code Book
 
 This data set represents compressed version of initial UCI HAR database (Human Activity Recognition Using Smartphones)
-[*Anguita et al.*, 2013]. The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals.
+[Anguita *et al.*, 2013]. The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals.
 Only certain measures from initial dataset were selected and grouped according to experimental units and activities.
 
 ## Notes on the initial dataset
